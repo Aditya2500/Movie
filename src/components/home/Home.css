@@ -1,0 +1,21 @@
+.movie-item-container{
+    min-width: 600px;
+    position: relative;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 19%);
+    gap: 10px;
+}
+.movie-container{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.loading-gif{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+.movie-item-loading{
+    opacity: .3;
+}
+

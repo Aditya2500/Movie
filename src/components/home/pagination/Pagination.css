@@ -1,0 +1,8 @@
+.movie-paging{
+    grid-column: 1 / span 5;
+    display: flex;
+    justify-content: center;
+}
+.movie-previous-btn{
+    margin-left: 10px;
+}
